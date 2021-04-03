@@ -8,8 +8,8 @@
 
 ### 效果图
 
-![Image text](https://github.com/suyana/ActorSelector/main/snapshot/1.png)
-![Image text](https://github.com/suyana/ActorSelector/main/snapshot/2.png)
+![Image text](https://github.com/suyana/ActorSelector/blob/main/snapshot/1.png)
+![Image text](https://github.com/suyana/ActorSelector/blob/main/snapshot/2.png)
 
 
 ### 安装依赖
